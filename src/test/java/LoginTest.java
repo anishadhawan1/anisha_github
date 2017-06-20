@@ -27,6 +27,7 @@ public class LoginTest {
 	{
 		 driver.findElement(By.xpath("//a[@href='http://www.way2automation.com/demo.html']")).click();;
 		 Thread.sleep(2000);
+		 driver.findElement(By.xpath(""));
 		 
 				
 	}
